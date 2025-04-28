@@ -19,5 +19,5 @@ Supports basic arithmetic operations like addition, subtraction, multiplication,
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/go-cli-calculator.git
+git clone https://github.com/shashidar-k-s/go-cli-calculator.git
 cd go-cli-calculator
