@@ -47,7 +47,7 @@ func calculate(a float64, operator string, b float64) (float64, error) {
 }
 
 func main() {
-	fmt.Println(" CLI Calculator")
+	fmt.Println(" CLI Calculator:")
 
 	a, operator, b := readInput()
 
